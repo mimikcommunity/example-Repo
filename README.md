@@ -11,10 +11,10 @@ This is a reference Repo for mimik
 <details>
   <summary>Table of Contents</summary>
 <ol>
-    <li>  <a href="#About">About</a> 
-     <a href="#prerequisites">prerequisite</a> 
-   <a href="#Compatibility">Compatibility</a> 
-  </li>
+  <li>  <a href="#About">About</a> </li>
+  <li> <a href="#prerequisites">prerequisite</a> </li>
+  <li>  <a href="#Compatibility">Compatibility</a> </li>
+ 
   </ol>
        
 </details>
