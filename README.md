@@ -12,6 +12,7 @@ This is a reference Repo for mimik
   <summary>Table of Contents</summary>
   <ol>
     <li>  <a href="#About">About</a> <li>
+<li>  <a href="#prerequisites">prerequisite</a> <li>
      
        
   </ol>
@@ -22,7 +23,7 @@ In this document you will be able to :
 
 - to install and run edgeEngine on a Linux system for ARM and X86 Platforms
 
-# prerequisite
+# prerequisites
 
 
 For those who are new to edgeEngine, we recommend reading about the overall capabilities of this product [here](https://devdocs.mimik.com/introduction)
