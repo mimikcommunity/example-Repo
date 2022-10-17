@@ -11,8 +11,7 @@ This is a reference Repo for mimik
 <details>
   <summary>Table of Contents</summary>
   <ol>
- 
-      <a href="#About">About</a>
+    <li>  <a href="#About">About</a> <li>
      
        
   </ol>
