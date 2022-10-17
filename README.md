@@ -14,7 +14,7 @@ This is a reference Repo for mimik
     <li>
       <a href="#About">About</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#prerequisit">Prerequisite</a></li>
       </ul>
     </li>
     <li>
@@ -34,7 +34,11 @@ This is a reference Repo for mimik
 </details>
 
 # About
-## edgeEngine for Linux on ARM
+In this document you will be able to : 
+
+- to install and run edgeEngine on a Linux system for ARM and X86 Platforms
+
+# prerequisite
 
 
 For those who are new to edgeEngine, we recommend reading about the overall capabilities of this product [here](https://devdocs.mimik.com/introduction)
