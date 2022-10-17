@@ -17,8 +17,7 @@ This is a reference Repo for mimik
         <li>
             <li>
           <a href="#prerequisit">Prerequisite</a></li>
-      
-    </li>
+     
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
