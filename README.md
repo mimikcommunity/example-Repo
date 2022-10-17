@@ -13,11 +13,11 @@ This is a reference Repo for mimik
   <ol>
     <li>
       <a href="#About">About</a>
-      <ul>
+     
         <li>
             <li>
           <a href="#prerequisit">Prerequisite</a></li>
-      </ul>
+      
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
