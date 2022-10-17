@@ -33,7 +33,8 @@ This is a reference Repo for mimik
   </ol>
 </details>
 
-# edgeEngine for Linux on ARM
+# About
+## edgeEngine for Linux on ARM
 
 
 For those who are new to edgeEngine, we recommend reading about the overall capabilities of this product [here](https://devdocs.mimik.com/introduction)
