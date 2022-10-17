@@ -14,7 +14,9 @@ This is a reference Repo for mimik
     <li>
       <a href="#About">About</a>
       <ul>
-        <li><a href="#prerequisit">Prerequisite</a></li>
+        <li>
+            <li>
+          <a href="#prerequisit">Prerequisite</a></li>
       </ul>
     </li>
     <li>
