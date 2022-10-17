@@ -12,7 +12,7 @@ This is a reference Repo for mimik
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#edgeEngine for Linux on ARM">edgeEngine for Linux on ARM</a>
+      <a href="#About">About</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
