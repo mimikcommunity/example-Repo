@@ -68,18 +68,9 @@ The edgeEngine 3.0.x Runtime for ARM CPU architecture is a new generation of edg
 |  ARMv8-A| Cortex-A34, Cortex-A35, Cortex-A53, Cortex-A57, Cortex-A72, Cortex-A73| NVIDIA Linux | https://github.com/edgeEngine/edgeengine-linux-arm| 
 |ARMv8-A  |  Cortex-A53, Cortex-A72       | QNX 7.1  | https://github.com/edgeEngine/edgeengine-embedded-os | 
 
-## Related
-
-What are the related (internal and external) Sources ? 
-- [QNX](https://www.qnx.com/developers/docs/)
-- [Ubuntu](https://ubuntu.com/desktop/developers)
-
-## How does it work ?
 
 
-
-
-## Documentation 
+# Instructions 
 
 <details><summary> Installation Guide </summary>
 <p>
@@ -119,5 +110,9 @@ tar xvf edge-linux-v3.0.0.tar
 </p>
 </details>
 
+## Related
 
+What are the related (internal and external) Sources ? 
+- [QNX](https://www.qnx.com/developers/docs/)
+- [Ubuntu](https://ubuntu.com/desktop/developers)
 
