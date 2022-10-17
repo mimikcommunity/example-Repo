@@ -13,6 +13,7 @@ This is a reference Repo for mimik
 <ol>
     <li>  <a href="#About">About</a> <li>
     <li>  <a href="#prerequisites">prerequisite</a> <li>
+  <li> <a href="#Compatibility">Compatibility</a> <li>
   </ol>
        
 </details>
@@ -55,7 +56,7 @@ The edgeEngine 3.0.x Runtime for ARM CPU architecture is a new generation of edg
  - Enable microservice-to-microservice communication running on CPU cores or between PCBs.
  - RESTful API instead of RPC API on restricted ARM cortex (i.e., R5F)
 
- ## Compatibility
+ # Compatibility
 
 
 
