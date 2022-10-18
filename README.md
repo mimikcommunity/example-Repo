@@ -2,6 +2,7 @@
 This is a reference Repo for mimik 
 ![image](https://user-images.githubusercontent.com/86588827/181847386-389eadcd-de4a-421b-908d-e31edc646657.png)
 
+https://img.shields.io/github/forks/mimikcommunity/example-Repo?style=for-the-badge
 
 
 ![GitHub watchers](https://img.shields.io/github/watchers/mimikcommunity/example-repo?style=social)!
