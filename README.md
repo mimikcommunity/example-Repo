@@ -124,7 +124,11 @@ What are the related (internal and external) Sources ?
 
 
 ## Notes 
-
+Any Additional Notes to be added in this section 
 ## Community & Support 
+
 [mimik-community Community](https://github.com/mimikcommunity/example-Repo/discussions)
+
+
+## Resources 
 [Developer Documentation] (devdocs.mimik.com)
