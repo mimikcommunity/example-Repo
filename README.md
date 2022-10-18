@@ -28,7 +28,7 @@ In this document you will be able to :
 
 - to install and run edgeEngine on a Linux system for ARM and X86 Platforms
 
-## prerequisites
+## Prerequisites
 
 In order to get full benefit from this repository:
 
