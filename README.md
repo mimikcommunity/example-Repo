@@ -5,7 +5,6 @@
 ![GitHub watchers](https://img.shields.io/github/watchers/mimikcommunity/example-repo?style=for-the-badge)
 ![GitHub stars](https://img.shields.io/github/stars/mimikcommunity/example-repo?style=for-the-badge)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![Community](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 
 <!-- TABLE OF CONTENTS -->
@@ -32,6 +31,7 @@ In this document you will be able to :
 
 ## prerequisites
 
+In order to get full benefit from this repository:
 
 For those who are new to edgeEngine, we recommend reading about the overall capabilities of this product [here](https://devdocs.mimik.com/introduction)
 
