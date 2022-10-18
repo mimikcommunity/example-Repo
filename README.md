@@ -6,6 +6,13 @@ This is a reference Repo for mimik
 
 ![GitHub watchers](https://img.shields.io/github/watchers/edgeEngine/edgeengine-linux-arm?style=social)![Discord](https://img.shields.io/discord/1002391068773457980)
 
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
 
 <!-- TABLE OF CONTENTS -->
 <details>
