@@ -5,8 +5,9 @@
 ![GitHub watchers](https://img.shields.io/github/watchers/mimikcommunity/example-repo?style=for-the-badge)
 ![GitHub stars](https://img.shields.io/github/stars/mimikcommunity/example-repo?style=for-the-badge)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![Community](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
