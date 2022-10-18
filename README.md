@@ -17,7 +17,7 @@
   <li>  <a href="#Instructions">Instructions</a> </li>
   <li>  <a href="#Related">Related</a> </li>
   <li>  <a href="#Notes">Notes</a> </li>
-  <li>  <a href="#Community-&Support">Community & Support</a> </li
+  <li>  <a href="#Community-&Support">Community & Support</a> </li>
   <li>  <a href="#Resources">Resources</a> </li>
   </ol>
        
@@ -130,4 +130,4 @@ Any Additional Notes to be added in this section
 
 
 ## Resources 
-[Developer Documentation] (devdocs.mimik.com)
+[Developer Documentation](devdocs.mimik.com)
