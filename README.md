@@ -19,8 +19,6 @@
   <li>  <a href="#Notes">Notes</a> </li>
   <li>  <a href="#Community-&Support">Community & Support</a> </li
   <li>  <a href="#Resources">Resources</a> </li>
-  
- 
   </ol>
        
 </details>
