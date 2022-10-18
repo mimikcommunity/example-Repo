@@ -4,7 +4,7 @@ This is a reference Repo for mimik
 
 
 
-![GitHub watchers](https://img.shields.io/github/watchers/edgeEngine/edgeengine-linux-arm?style=social)![Discord](https://img.shields.io/discord/1002391068773457980)
+![GitHub watchers](https://img.shields.io/github/watchers/mimikcommunity/example-repo?style=social)!
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
