@@ -4,15 +4,9 @@
 ![GitHub forks](https://img.shields.io/github/forks/mimikcommunity/example-Repo?style=for-the-badge)
 ![GitHub watchers](https://img.shields.io/github/watchers/mimikcommunity/example-repo?style=for-the-badge)
 ![GitHub stars](https://img.shields.io/github/stars/mimikcommunity/example-repo?style=for-the-badge)
+[![LinkedIn] (linkedin-shield]][linkedin-url)(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
