@@ -15,9 +15,9 @@ This is a reference Repo for mimik
   <li> <a href="#prerequisites">prerequisite</a> </li>
   <li>  <a href="#Compatibility">Compatibility</a> </li>
   <li>  <a href="#Instructions">Instructions</a> </li>
-  <li>  <a href="#Related">Related </a> </li>
-  <li>  <a href="#Notes">Related </a> </li>
-  <li>  <a href="#Community-&Support">Related </a> </li>
+  <li>  <a href="#Related">Related</a> </li>
+  <li>  <a href="#Notes">Related</a> </li>
+  <li>  <a href="#Community-&Support">Related</a> </li>
   
  
   </ol>
