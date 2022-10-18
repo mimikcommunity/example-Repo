@@ -14,6 +14,9 @@ This is a reference Repo for mimik
   <li>  <a href="#About">About</a> </li>
   <li> <a href="#prerequisites">prerequisite</a> </li>
   <li>  <a href="#Compatibility">Compatibility</a> </li>
+  <li>  <a href="#Instructions">Instructions</a> </li>
+  <li>  <a href="#Related ">Related </a> </li>
+  
  
   </ol>
        
@@ -115,4 +118,9 @@ tar xvf edge-linux-v3.0.0.tar
 What are the related (internal and external) Sources ? 
 - [QNX](https://www.qnx.com/developers/docs/)
 - [Ubuntu](https://ubuntu.com/desktop/developers)
+
+
+# Notes 
+
+# Community 
 
