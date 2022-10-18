@@ -30,41 +30,11 @@ In this document you will be able to :
 
 ## Prerequisites
 
-In order to get full benefit from this repository:
-
-For those who are new to edgeEngine, we recommend reading about the overall capabilities of this product [here](https://devdocs.mimik.com/introduction)
-
-
-Please also be advised that different versions of edgeEngine are available for different CPU architectures and OS platforms. Please see [here](https://github.com/edgeEngine)
-
-The edgeEngine 3.0.x Runtime for ARM CPU architecture is a new generation of edgeEngine with a new set of features and capabilities as described in the followings:
-
- - Supporting WebAssembly serverless microservice runtime environment.
- - Supporting wasi_snapshot_preview1 in WebAssembly serverless microservice runtime environment
- - Supporting Prometheus metrics endpoint. (observability)
-
- Besides the above-mentioned new features, we also improved the following existing features as described below:
- - Global discovery
- - Feedbacks for API errors
- - Response time in JavaScript serverless microservice runtime environment enabling a serverless environment for different cores of ARM CPU.
- 
- By using existing and the new edgeEngine's capabilities, embedded platform developers will be able to: 
- 
- - Develop Multi-thread programs across all cores.
- - Dynamically configure microservices.
- - Reuse the microservices code across different platforms.
- - Use RESTful API to communicate with microservices across the CPU cores and across the PCBs.
- - Use a uniform deployment mechanism across all CPU cores and across different PCBs.
- - Dynamically update microservices across the cores, platforms, and PCBs.
- - Dynamically deploy microservices across all platforms and PCBs, using the "Control node" and "Worker node" model.
- - Make the File system available for all microservices, even for those which are running on restricted cores (i.e., R5F cores on TI-TDA4VM).
- - From microservice mesh across CPU cores, platforms, or PCBs.
- - Enable microservice-to-microservice communication running on CPU cores or between PCBs.
- - RESTful API instead of RPC API on restricted ARM cortex (i.e., R5F)
+Outlining the Prerequisite software, hardware, resources, account requirement and any required prior knowldge  
 
  ## Compatibility
 
-
+Example Compatibility table:
 
 | CPU Architecture | CPU Type   | Operating System| system |
 | :-------- | :------- | :-------- | :-------- |
@@ -75,7 +45,11 @@ The edgeEngine 3.0.x Runtime for ARM CPU architecture is a new generation of edg
 
 
 
-## Instructions 
+## Instructions Guide
+
+Instructions to include Installation guide and any additional notes 
+
+Example Installation and Notes section:
 
 <details><summary> Installation Guide </summary>
 <p>
@@ -123,11 +97,15 @@ What are the related (internal and external) Sources ?
 
 
 ## Notes 
-Any Additional Notes to be added in this section 
+Any Additional Notes to be added in this section
+
 ## Community & Support 
+
+Link to Community and Support resources 
 
 [mimik-community Community](https://github.com/mimikcommunity/example-Repo/discussions)
 
 
 ## Resources 
+Link to additional resources 
 [Developer Documentation](devdocs.mimik.com)
