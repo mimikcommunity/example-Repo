@@ -1,4 +1,4 @@
-# example-Repo
+# Title
 This is a reference Repo for mimik 
 ![image](https://user-images.githubusercontent.com/86588827/181847386-389eadcd-de4a-421b-908d-e31edc646657.png)
 
@@ -15,19 +15,21 @@ This is a reference Repo for mimik
   <li> <a href="#prerequisites">prerequisite</a> </li>
   <li>  <a href="#Compatibility">Compatibility</a> </li>
   <li>  <a href="#Instructions">Instructions</a> </li>
-  <li>  <a href="#Related ">Related </a> </li>
+  <li>  <a href="#Related">Related </a> </li>
+  <li>  <a href="#Notes">Related </a> </li>
+  <li>  <a href="#Community-&Support">Related </a> </li>
   
  
   </ol>
        
 </details>
 
-# About
+## About
 In this document you will be able to : 
 
 - to install and run edgeEngine on a Linux system for ARM and X86 Platforms
 
-# prerequisites
+## prerequisites
 
 
 For those who are new to edgeEngine, we recommend reading about the overall capabilities of this product [here](https://devdocs.mimik.com/introduction)
@@ -60,7 +62,7 @@ The edgeEngine 3.0.x Runtime for ARM CPU architecture is a new generation of edg
  - Enable microservice-to-microservice communication running on CPU cores or between PCBs.
  - RESTful API instead of RPC API on restricted ARM cortex (i.e., R5F)
 
- # Compatibility
+ ## Compatibility
 
 
 
@@ -73,7 +75,7 @@ The edgeEngine 3.0.x Runtime for ARM CPU architecture is a new generation of edg
 
 
 
-# Instructions 
+## Instructions 
 
 <details><summary> Installation Guide </summary>
 <p>
@@ -120,7 +122,7 @@ What are the related (internal and external) Sources ?
 - [Ubuntu](https://ubuntu.com/desktop/developers)
 
 
-# Notes 
+## Notes 
 
-# Community 
+## Community & Support 
 
