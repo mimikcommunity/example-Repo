@@ -23,16 +23,32 @@
        
 </details>
 
-## About
+
+### 💡 Goal of edgeEngine for Linux on ARM (about)
+< Add the goal or objective for ........... >
+
 In this document you will be able to : 
 
 - to install and run edgeEngine on a Linux system for ARM and X86 Platforms
+
 
 ## Prerequisites
 
 Outlining the Prerequisite software, hardware, resources, account requirement and any required prior knowldge  
 
- ## Compatibility
+
+
+## 🖥️ Product Descritpion 
+
+
+## Related
+
+What are the related (internal and external) Sources ? 
+- [QNX](https://www.qnx.com/developers/docs/)
+- [Ubuntu](https://ubuntu.com/desktop/developers)
+
+
+## 🔍 Compatibility
 
 Example Compatibility table:
 
@@ -88,12 +104,6 @@ tar xvf edge-linux-v3.0.0.tar
 
 </p>
 </details>
-
-## Related
-
-What are the related (internal and external) Sources ? 
-- [QNX](https://www.qnx.com/developers/docs/)
-- [Ubuntu](https://ubuntu.com/desktop/developers)
 
 
 ## Notes 
