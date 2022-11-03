@@ -35,7 +35,7 @@
 [get started with mimik](https://developer.mimik.com/get-started-with-edgeengine/)
 
 
-## 💡 Goal of edgeEngine for Linux on ARM (About)
+## 💡 About (Goal of edgeEngine for Linux on ARM)
 < Add the goal or objective for ........... >
 
 In this document you will be able to : 
