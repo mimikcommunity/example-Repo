@@ -12,7 +12,7 @@
 <details>
   <summary>Table of Contents</summary>
 <ol>
-   <li>  <a href="#Before you get started">About</a> </li>
+   <li>  <a href="#Before you get started">Before you get started</a> </li>
   <li>  <a href="#About">About</a> </li>
   <li> <a href="#prerequisites">prerequisite</a> </li>
   <li>  <a href="#Compatibility">Compatibility</a> </li>
