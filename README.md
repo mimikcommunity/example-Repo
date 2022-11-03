@@ -40,6 +40,7 @@ Outlining the Prerequisite software, hardware, resources, account requirement an
 
 ## 🖥️ Product Descritpion 
 
+Descrbing the main components of the product
 
 ## Related
 
