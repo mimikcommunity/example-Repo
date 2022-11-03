@@ -23,8 +23,16 @@
        
 </details>
 
+## Before you get started 
 
-### 💡 Goal of edgeEngine for Linux on ARM (about)
+ [explore develoepr-doccumentation](developer.mimik.com)
+ 
+ [sign up and create a mimik developer console account](https://developer.mimik.com/console/create_account)
+ 
+ [get started with mimik](https://developer.mimik.com/get-started-with-edgeengine/)
+ 
+
+## 💡 Goal of edgeEngine for Linux on ARM (About)
 < Add the goal or objective for ........... >
 
 In this document you will be able to : 
@@ -110,11 +118,11 @@ tar xvf edge-linux-v3.0.0.tar
 ## Notes 
 Any Additional Notes to be added in this section
 
-## Community & Support 
+## Community & Support  
 
-Link to Community and Support resources 
+[mimik-community](https://github.com/mimikcommunity/example-Repo/discussions)
 
-[mimik-community Community](https://github.com/mimikcommunity/example-Repo/discussions)
+Contact the developer support team: devcommunity.support@mimik.com
 
 
 ## Resources 
