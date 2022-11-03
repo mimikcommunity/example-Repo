@@ -26,7 +26,7 @@
 </details>
 
 
-# Before you get started
+## Before you get started
 
 [explore develoepr-doccumentation](developer.mimik.com)
  
