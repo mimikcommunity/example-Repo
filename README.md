@@ -77,7 +77,6 @@ Example Compatibility table:
 
 Instructions to include Installation guide and any additional notes 
 
-Example Installation and Notes section:
 
 <details><summary> Installation Guide </summary>
 <p>
