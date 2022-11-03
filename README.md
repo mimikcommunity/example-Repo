@@ -70,7 +70,7 @@ Example Compatibility table:
 
 
 
-## Instructions Guide
+## Instructions
 
 Instructions to include Installation guide and any additional notes 
 
