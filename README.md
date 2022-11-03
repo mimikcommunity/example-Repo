@@ -6,6 +6,30 @@
 ![GitHub stars](https://img.shields.io/github/stars/mimikcommunity/example-repo?style=for-the-badge)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+<ol>
+  <li>  <a href="#About">About</a> </li>
+  <li> <a href="#prerequisites">prerequisite</a> </li>
+  <li>  <a href="#Compatibility">Compatibility</a> </li>
+  <li>  <a href="#Instructions">Instructions</a> </li>
+  <li>  <a href="#Related">Related</a> </li>
+  <li>  <a href="#Notes">Notes</a> </li>
+  <li>  <a href="#Community-&Support">Community & Support</a> </li>
+  <li>  <a href="#Resources">Resources</a> </li>
+  </ol>
+       
+</details>
+
+
+# Before you get started
+
+[explore develoepr-doccumentation](developer.mimik.com)
+ 
+[sign up and create a mimik developer console account](https://developer.mimik.com/console/create_account)
+ 
+[get started with mimik](https://developer.mimik.com/get-started-with-edgeengine/)
 
 <!-- TABLE OF CONTENTS -->
 <details>
