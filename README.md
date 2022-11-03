@@ -120,9 +120,9 @@ Any Additional Notes to be added in this section
 
 ## Community & Support  
 
-[mimik-community](https://github.com/mimikcommunity/example-Repo/discussions)
+Contact the developer support team @ devcommunity.support@mimik.com
 
-Contact the developer support team: devcommunity.support@mimik.com
+Ask questions and share your ideas at [edgeEngine-SE-community-page](https://github.com/edgeEngine/edgeEngine-SE-Android)
 
 
 ## Resources 
