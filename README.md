@@ -34,22 +34,6 @@
  
 [get started with mimik](https://developer.mimik.com/get-started-with-edgeengine/)
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-<ol>
-  <li>  <a href="#About">About</a> </li>
-  <li> <a href="#prerequisites">prerequisite</a> </li>
-  <li>  <a href="#Compatibility">Compatibility</a> </li>
-  <li>  <a href="#Instructions">Instructions</a> </li>
-  <li>  <a href="#Related">Related</a> </li>
-  <li>  <a href="#Notes">Notes</a> </li>
-  <li>  <a href="#Community-&Support">Community & Support</a> </li>
-  <li>  <a href="#Resources">Resources</a> </li>
-  </ol>
-       
-</details>
- 
 
 ## 💡 Goal of edgeEngine for Linux on ARM (About)
 < Add the goal or objective for ........... >
